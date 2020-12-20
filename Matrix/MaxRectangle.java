@@ -14,7 +14,7 @@ public class MaxRectangle {
     }
     private static int maxReact(int[][] matrix, int row, int col){
         int area = 0;
-        int[][] dp = new int[row][col];
+        // int[][] dp = new int[row][col];
 
         return area;
     }
