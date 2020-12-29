@@ -1,3 +1,5 @@
+package Strings;
+
 public class Rotation {
     private static boolean areRotation(String str1, String str2){
         String concatString = str1+str1;
